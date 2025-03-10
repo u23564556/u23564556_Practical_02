@@ -1,0 +1,106 @@
+﻿
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Bar */
+.nav-bar {
+    background-color: #4a7c47;
+    padding: 10px;
+    text-align: center;
+}
+
+    .nav-bar ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-bar li {
+        margin: 0 10px;
+    }
+
+    .nav-bar a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        padding: 8px 15px;
+        display: inline-block;
+        background-color: #6da56d;
+        border-radius: 5px;
+    }
+
+        .nav-bar a:hover {
+            background-color: #3f6a3e;
+        }
+
+/* Sections */
+section {
+    background-color: white;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    border: 2px solid #4a7c47;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #4a7c47;
+    border-bottom: 2px solid #4a7c47;
+    padding-bottom: 5px;
+}
+
+/* Biography and Hobbies */
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+    .content img {
+        width: 100px;
+        height: 100px;
+        border: 2px solid #4a7c47;
+        border-radius: 50%;
+    }
+
+/* Biography - Image on the Left */
+#biography .content img {
+    margin-right: 15px;
+}
+
+/* Hobbies - Image on the Right */
+#hobbies .content img {
+    margin-left: 15px;
+}
+
+/* Modules Section */
+.modules-container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.modules-semester {
+    width: 45%;
+}
+
+    .modules-semester ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .modules-semester li {
+        padding: 5px;
+        background-color: #e8f5e9;
+        margin: 5px;
+        border-radius: 5px;
+    }
