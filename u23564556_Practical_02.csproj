@@ -153,7 +153,9 @@
     <Content Include="HTML\Images\20240212_163216.jpg" />
     <Content Include="HTML\Images\Kallie.jpg" />
     <Content Include="HTML\Images\Screenshot 2025-03-10 175217.png" />
+    <Content Include="HTML\Images\Screenshot 2025-03-10 180044.png" />
     <Content Include="HTML\Images\Screenshot_20231204_095525_Instagram.jpg" />
+    <Content Include="HTML\Images\Yaasir.jpg" />
     <Content Include="HTML\Kallie.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -162,11 +164,6 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="HTML\Images\hawkeye.webp" />
-    <Content Include="HTML\Images\peter-parker-Cropped.webp" />
-    <Content Include="HTML\Images\steve-rogers.webp" />
-    <Content Include="HTML\Images\The-Incredible-Hulk.webp" />
-    <Content Include="HTML\Images\thor-lightning.webp" />
-    <Content Include="HTML\Images\tony-stark-iron-man.webp" />
     <Content Include="HTML\Images\Vision-Civil-War-Cropped.webp" />
     <Content Include="HTML\Images\Wanda-Scarlet-Witch-Cropped.webp" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
