@@ -152,6 +152,7 @@
     <Content Include="HTML\Images\20231210_145157.jpg" />
     <Content Include="HTML\Images\20240212_163216.jpg" />
     <Content Include="HTML\Images\Kallie.jpg" />
+    <Content Include="HTML\Images\Screenshot 2025-03-10 175217.png" />
     <Content Include="HTML\Images\Screenshot_20231204_095525_Instagram.jpg" />
     <Content Include="HTML\Kallie.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -160,10 +161,6 @@
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="HTML\Images\Anthony-Mackie-Captain-America-4.webp" />
-    <Content Include="HTML\Images\antman-and-the-wasp-marvel-4.webp" />
-    <Content Include="HTML\Images\black-widow-1.webp" />
-    <Content Include="HTML\Images\Don-cheadle-as-rhodey-Cropped.webp" />
     <Content Include="HTML\Images\hawkeye.webp" />
     <Content Include="HTML\Images\peter-parker-Cropped.webp" />
     <Content Include="HTML\Images\steve-rogers.webp" />
