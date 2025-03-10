@@ -85,10 +85,20 @@ h2 {
     margin-right: 15px;
 }
 
+/* Hover effect to mirror the image */ 
+#biography .content img:hover {
+    transform: scaleX(-1); /* Flip the image horizontally */
+}
+
 /* Hobbies - Image on the Right */
 #hobbies .content img {
     margin-left: 15px;
 }
+
+/*Hover mirror with hobbies image*/
+    #hobbies .content img:hover {
+        transform: scaleX(-1); 
+    }
 
 /* Modules Section */
 .modules-container {
